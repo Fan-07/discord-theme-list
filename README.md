@@ -7,7 +7,8 @@ dark matter
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/576f6b57-2836-4592-8133-a52ddc58c898" />
 workspace
 
-<img width="1920" height="1160" alt="image" src="https://github.com/user-attachments/assets/ad37320e-0fc0-4f6f-a6d1-0e628823b45a" />
+![Uploading image.png…]()
+
 discord+
 
 <img width="1920" height="1160" alt="image" src="https://github.com/user-attachments/assets/8cd557ad-7041-4e55-9ece-0f854c3f5fc8" />
